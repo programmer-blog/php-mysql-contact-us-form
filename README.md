@@ -4,12 +4,13 @@
 
   HTML Contact Us Form
 
-  ### Create a Connection.php file to connect to database
+  #### Create a Connection.php file to connect to database
 
-  ### Create a MySQL Database and Table to save  contact us queries.
+  #### Create a MySQL Database and Table to save  contact us queries.
 
-  ### Process and Save form data to database using MySQLi extension
+  #### Process and Save form data to database using MySQLi extension
 
-  ### Display a thankyou message
+  #### Display a thankyou message
+  
 
-You can see the detailed tutorial at Youtube: 
+  You can watch the video tutorial at Youtube: 
