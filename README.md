@@ -2,8 +2,6 @@
 
 ## Source Code for the vidoe Tutorial on PHP & MySQL 
 
-  HTML Contact Us Form
-
   #### Create a Connection.php file to connect to database
 
   #### Create a MySQL Database and Table to save  contact us queries.
