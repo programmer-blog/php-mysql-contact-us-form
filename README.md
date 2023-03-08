@@ -1,6 +1,6 @@
 # php-mysql-contact-us-form
 
-#Source Code for the vidoe Tutorial on PHP & MySQL 
+## Source Code for the vidoe Tutorial on PHP & MySQL 
 
   HTML Contact Us Form
 
